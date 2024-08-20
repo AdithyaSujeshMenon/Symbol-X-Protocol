@@ -74,7 +74,7 @@ Symbol-X Protocol upholds the right to free and secure expression. By integratin
 
 ## License
 
-Symbol-X Protocol is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Symbol-X Protocol Version-1.0 is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact Us
 
@@ -82,4 +82,4 @@ For more information or to get involved, contact us at [adithyasujeshmenon@proto
 
 ---
 
-Empower your right to speak freely with Symbol-X Protocol. Your voice is protected, and your privacy is paramount.
+Empower your right to speak freely with Symbol-X Protocol Version-1.0 . Your voice is protected, and your privacy is paramount.
