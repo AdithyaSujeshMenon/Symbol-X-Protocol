@@ -1,4 +1,4 @@
-# Symbol-X Protocol
+# Symbol-X Protocol Version-1.0
 
 ## Overview
 
