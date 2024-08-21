@@ -1,4 +1,4 @@
-Symbol-X Protocol
+Symbol-X Protocol Version-1.0
 
 1. Advanced Encryption and Security
 End-to-End Encryption (E2EE):Use robust algorithms like AES-256-GCM for encrypting messages, which ensures both confidentiality and integrity.Implement Signal Protocol or Double Ratchet Algorithm to manage key exchanges and message encryption.
